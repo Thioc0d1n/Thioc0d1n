@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Thioc0d1n
 
-I'm a developer and RCON administrator at **HoodVibez**, and Co-Owner of **QuantumEntertainment** — a community-driven project focused on immersive FiveM roleplay experiences.
+I'm a developer and RCON administrator at **HoodVibez**, and Co-Owner of **QuantumEntertainment** — a roblox group founded by couple of friends.
 
 ## 🧠 What I Do
 
