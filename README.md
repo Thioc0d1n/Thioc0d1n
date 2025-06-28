@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Thioc0d1n
 
-I'm a developer and RCON administrator at **HoodVibez**, and Co-Owner of **QuantumEntertainment** — a roblox group founded by couple of friends.
+I'm a Co-Owner of **QuantumEntertainment** — a roblox group founded by couple of friends.
 
 ## 🧠 What I Do
 
@@ -18,7 +18,7 @@ I'm a developer and RCON administrator at **HoodVibez**, and Co-Owner of **Quant
 
 ## 📂 Projects & Contributions
 
-Most of my work is done internally for **HoodVibez** and **QuantumEntertainment**, but I'm always down to share selected snippets or contribute to open-source where I can.
+Most of my work is done internally for **QuantumEntertainment**, but I'm always down to share selected snippets or contribute to open-source where I can.
 
 If you're into roleplay server development, I’m open to collaboration and knowledge sharing.
 
